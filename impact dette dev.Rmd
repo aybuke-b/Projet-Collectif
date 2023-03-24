@@ -1,0 +1,2045 @@
+---
+title: ""
+output: pdf_document
+header-includes :
+  - \usepackage{xcolor}
+  - \usepackage{graphicx}
+classoption: dvipsnames
+fontsize: 12pt
+date: " "
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\textcolor{BlueViolet}{\underline {\Huge{\bf Chapitre 1 : Cadres conceptuels}}}
+
+# Dette extérieure
+
+La dette extérieure d'un pays correspond à une dette contractée auprès
+d'agents extérieurs au pays c'est-à-dire des institutions bancaires
+internationales dont le FMI ou la Banque Mondiale, ou un autre pays
+partenaire qui serait son créancier. Elle constitue une ressource de
+financement essentielle pour les économies qui ne dispose que d'une
+épargne intérieure trop faible pour le financement de son projet. Il
+existe deux types de dettes extérieures : les dettes extérieures dites «
+bilatérales » et les dettes extérieures dites « multilatérales ».
+
+## Bilatérale
+
+Il s'agit d'une dette contractée par un pays auprès d'un autre. Ces
+dettes sont négociées au sein du Club de Paris.  Le Club de Paris, fondé
+en 1956, est un forum d'échange d'informations et points de vue sur la
+situation des pays débiteurs. Le FMI et la Banque Mondiale s'impliquent
+souvent dans ces échanges et offrent leurs données sur les pays
+débiteurs et sur leurs créances.
+
+## Multilatérale
+
+Une dette multilatérale correspond à l'ensemble des dettes contractés
+par un pays auprès d'institutions financières internationales telles que
+le FMI, la Banque Mondiale ou des fond régionaux de développement en
+citant la Banque Africaine de Développement, la BAD, par exemple.
+
+# Obligations de la dette
+
+## Service de la dette
+
+Le service de la dette correspond à la somme qu'un pays débiteur s'est
+engagé à verser chaque année à ses créanciers afin d'honorer sa dette.
+Cela comprend le paiement des intérêts et le remboursement du capital
+qu'il a perçu.
+
+## Encours de la dette
+
+L'encours de la dette désigne le montant des dettes contractées à une
+date donnée.
+
+# Soutenabilité de la dette extérieure
+
+La soutenabilité de la dette n'a commencé à être étudier qu'à partir de
+1996 par l'Institution de Bretton Woods sous l'initiative des pays
+pauvres très endettés. Le but de cette démarche était de rendre le poids
+de la dette plus supportable pour ces pays. \newline
+
+C'est en 1996 que les institutions de Bretton Wood ont commencé à
+étudier la soutenabilité de la dette avec l'Initiative des Pays Pauvres
+Très endettés. L'objectif étant de ramener la charge de la dette qui
+pèse sur ces pays à un niveau plus supportable. Avant toute chose, il
+fallait prouver qu'un allègement de cette charge serait bel et bien
+bénéfique. \newline Seulement avant d'entreprendre toutes démarches, il
+fallait poser les bases et définir ce qu'était une dette soutenable.
+Cette définition a été choisie par l'International Development
+Association et le FMI en 2001.
+\textit{« On dira que la dette extérieure d’un pays est soutenable s’il peut honorer totalement ses obligations en termes de service de la dette sans recours à des restructurations de sa dette, sans accumulation d’arriérés et sans compromettre sa croissance »}.
+\newline
+
+La soutenabilité se mesure à travers un certain degré d'endettement qui
+se traduisent par l'utilisation de certains ratios. Voici une liste des
+ratios les plus courants.\newline Nous avons le
+\textbf{ratio de la dette aux exportations} qui correspond à l'encours
+de la dette en fin d'année sur les exportations de biens et services,
+cela nous indique le nombre d'années pour rembourser ses créances.
+Ensuite, nous avons le ratio de la \textbf{dette au PIB} qui indique le
+degré d'endettement extérieur d'un pays. \newline
+
+Néanmoins, il ne faut pas confondre avec la solvabilité. La solvabilité
+est la capacité d'un pays à rembourser s'acquitter de sa dette auprès de
+son créancier. Les institutions de Bretton Wood ont défini un seuil à
+partir duquel l'endettement des pays n'est plus soutenable. \newline
+
+Entre 1998 et 1999, l'Initiative des Pays Pauvres Très Endettés ont été
+critiqué à cause des solutions qu'ils ont proposés. Elles ne seraient
+pas suffisantes pour alléger cette charge qui pèse sur les pays. Les
+pays en difficulté auront de très grandes difficultés à sortir du cercle
+vicieux de la dette où les coûts de la dette effaçaient ce que la
+croissance économique apportait de bénéfique. Ces critiques ont été
+entendues et les conditions d'admission ont été assouplit en 1999 et les
+ratios « seuils » de soutenabilité ont été à la baisse. \newline
+
+# L'allégement de la dette
+
+Si on parle d'allégement de la dette, certains économistes vont jusqu'à
+plaider l'annulation de la dette. Ils pensent que les pays endettés ne
+pourront pas rembourser leurs dettes sans qu'il n'y ait de conséquences
+macroéconomiques dramatiques. Ils plaident donc l'annulation de la dette
+au nom de « la dette odieuse », une notion théorisée par Alexander Sack
+en 1927. \newline Cette notion engage la responsabilité des pays du Nord
+créanciers qui savaient ou aurait dû qu'emprunter à un tel pays ne
+profitera pas à la population de ce pays.\newline La dette serait un
+moyen d'asservir les pays en voie de développement et de garder une
+position de pouvoir néocolonial envers ces pays.
+
+\newpage
+
+\textcolor{BlueViolet}{\underline {\Huge{\bf Chapitre 2 : Cadres théoriques}}}
+
+# L'endettement dans la théorie macroéconomique
+
+Concernant l'impact de la dette publique sur la croissance d'un pays,
+les avis divergent. Les perceptions varient selon les écoles de pensée.
+C'est ainsi que certains économistes pensent que la dette peut être
+nécessaire voire efficace pour le développement d'un pays, alors que
+d'autres diabolisent l'emprunt, estimant que tout emprunt public ne
+serait que dommageable pour le pays débiteur.
+
+## La dette bénéfique pour la croissance
+
+Selon l'approche keynésienne une réduction des prélèvements fiscaux
+permise par un endettement de l'Etat stimulerait la demande à
+cout-terme. Une diminution de la charge fiscale sans qu'il y ait de
+réduction des dépenses publiques permet d'augmenter le revenu disponible
+des ménages ce qui serait bénéfique pour la consommation et de demande
+agrégée par extension. \newline Une augmentation de la demande agrégée
+induirait une augmentation de l'offre agrégée. Ainsi, une dette bien
+gérée est bénéfique pour le refinancement de l'économie. En effet, pour
+les pays en développement, emprunter au pays les plus développés
+permettrait financer le déficit d'épargne ainsi que le déficit de
+développement. Ce serait un facteur de relance économique, qui par un
+effet multiplicateur favoriserait une croissance durable.
+
+## Le rejet de la dette publique
+
+D'après l'approche ricardienne (1817), chaque génération veillerait sur
+la prochaine et maximiserait son profit pour satisfaire leurs besoins.
+Quant aux populations suivantes, elles sont conscientes des
+comportements adoptés par leurs aînés et adapteraient leurs
+consommations à partir de cela. Ainsi les dettes publiques contractées
+auparavant se répercuteront sur leurs impôts. Ainsi, les agents
+développeront une tendance à épargner, donc l'épargne va augmenter et
+les effets d'éviction des investissements privés seront évités car
+l'épargne augmentant, les taux d'intérêt restent stables.
+
+\vspace{0.6em}
+
+D'après la théorie classique, un financement à crédit des dépenses
+publiques engendrera une augmentation des taux d'intérêts. De ce fait,
+les investissements privés seront découragés, c'est ce qu'on appelle un
+effet d'éviction. Il se produira donc un ralentissement de
+l'accumulation du capital et de la croissance économique. De plus, le
+service de la dette sera déduit du budget étatique. En bref,
+l'endettement peut avoir des effets négatifs sur l'économie du pays
+débiteur.
+
+\vspace{0.6em}
+
+Pour Smith, l'Etat ne serait pas un emprunteur fiable. La contractation
+de la dette incite les dirigeants des pays endettés à adopter un
+comportement irresponsable c'est-à-dire à faire des dépenses inutiles
+qui ne profiterait pas au développement de leurs économie.
+
+\vspace{0.6em}
+
+L'approche néoclassique nous dit qu'une politique de relance est
+inefficace et induirait à une spirale inflationniste. Les agents
+économiques baseraient leurs attentes sur un modèle déjà établi dont ils
+ont connaissances. Ainsi, on peut en conclure que l'endettement de
+l'Etat est inefficace.
+
+# Théorie du surendettement
+
+La théorie du surendettement nous explique qu'une dette qui devient trop
+lourde à rembourser empêchera le pays débiteur à mettre en place des
+réformes qui seront bénéfiques pour l'investissement et la croissance
+économique. \newline En effet, les pays subissant le fardeau du service
+de la dette ne peuvent plus avoir suffisamment de ressources pour
+investir étant donné que le montant associé au remboursement ne cesse
+d'augmenter. \newline D'après Krugman en 1988 et Sachs en 1989, le
+surendettement survient quand le service de la dette est si pesant
+qu'une grande partie de leurs revenues revient à leurs créanciers
+étrangers. Le service de la dette pourrait s'assimiler à une taxe «
+implicite » ce qui a un effet négatif sur les investissements et sur la
+croissance. De ce fait, il devient très difficile pour les pays
+surendettés de sortir de la pauvreté. \newline Néanmoins, certains
+économistes nuancent ce propos. En 2003, Jean Beneth affirme que le
+problème n'est pas le service de la dette mais l'utilisation qu'on en
+fait. Une dette bien gérée permet aux pays d'obtenir de bons revenus qui
+rembourseront leurs dettes. Ainsi, si une dette est insoutenable, la
+raison viendrait d'une mauvaise gestion des dirigeants autrement dit de
+l'instabilité politique.
+
+# Les théories économiques de la croissance
+
+En 1963, François Perroux définit la croissance économie comme étant
+\textit{« l'augmentation soutenue pendant une ou plusieurs périodes longues d’un indicateur de dimension, pour une nation, le produit global net en termes réels »}.
+Ainsi la croissance économique se caractérise par un accroissement sur
+une ou plusieurs périodes du produit global net en termes réels.
+\newline Ce n'est qu'au XVIIIe siècle que l'on observe une croissance
+dans certains pays européens, puis cela s'est étendu jusqu'en Amérique
+du Nord puis plus tard dans le reste du monde.
+
+## Les précurseurs
+
+En 1776, Adam Smith, auteur classique, étudie les origines et les causes
+de la richesse des nations. Son étude est marquée par l'importance du
+capital et de la division du travail dans la croissance économique. La
+capitale mobilise le travail, ainsi, la croissance devient
+infinie.\newline Pour Ricardo et Malthus, il n'en est rien. La
+croissance n'est pas infinie et convergerait vers un point stationnaire.
+\newline D'après Ricardo, la loi des rendements décroissants
+expliquerait cela. Il y aurait trois types d'agents économiques. Les
+propriétaires fonciers, les salariés et les capitalistes. Une
+augmentation de la production induirait une augmentation de la
+production agricole. Ainsi, on observera une baisse de la productivité
+de ces terres qui engendrera une hausse des coûts de productions. Du
+fait de ce phénomène les salaires et les rentes foncières augmenteront
+et les profits vont s'amoindrir. Les capitalistes n'ayant plus
+d'incitation à investir cesseront leurs activités. En conséquence, la
+croissance cessera à ce stade. \newline Quant à Malthus, il considère
+qu'une forte croissance démographique serait un frein à la croissance.
+
+En 1934, J. Schumpeter l'innovation serait essentielle dans la recherche
+de croissance économique dans la mesure où les entrepreneurs, cherchent
+à maximiser un profit qui dépend de leur capacité à innover.
+
+## Les modèles post-keynésiens
+
+Domar nous explique que l'investissement influe à la fois l'offre que la
+demande. \newline Du côté de la demande, il détermine, par le biais du
+multiplicateur keynésien le niveau de la demande globale ainsi que le
+revenu. Du côté de l'offre, l'investissement fait accroitre la capacité
+de production grâce au mécanisme accélérateur. Afin d'obtenir une
+croissance équilibrée, le capital et la production doivent augmenter à
+un taux constant.
+
+Harrod qualifie la croissance d'instable et définit trois taux de
+croissance.\newline \textbf{Le taux de croissance naturel} qui est
+associé à la population active. Il pourrait assurer le plein emploi.
+\textbf{Le taux de croissance garanti} qui montre de quelle façon
+l'économie poursuit sa croissance ce qu'il lui permettra d'avoir une
+épargne qui financera les investissements. Et enfin,
+\textbf{le taux de croissance effectif} où l'épargne sera égale à
+l'investissement. Dans le cas où il y a divergence entre ces taux,
+l'économie sera plongée dans un état de surchauffe ou de sous-emploi.
+
+## Le modèle néoclassique
+
+Le Modèle de Solow de 1956 nous explique que la croissance est
+déterminée par le capital technique investi. Le principe des rendements
+décroissants fait qu'une augmentation du capital par tête induit
+augmentation non proportionnelle de la production par tête. Cette
+dernière augmentera mais de moins en moins vite jusqu'à arriver à l'état
+stationnaire où elle cessera d'évoluer.
+
+\newpage
+
+\textcolor{BlueViolet}{\underline {\Huge{\bf Chapitre 3 : Cadres empiriques}}}
+
+# Endettement
+
+De nombreuses études économétriques ont été faites afin d'expliquer la
+relation entre l'endettement et les variables macroéconomiques. \newline
+On peut en citer quelques-unes d'entre elles. On peut aborder les
+travaux de Barry Eichengreen et Richard Portes de 1986. \newline Ils
+portaient sur la détermination des déterminants du stock de la dette de
+trente pays à une date donné de leur économie. Ainsi, un endettement qui
+serait excessif accompagné d'un défaut de paiement nuirait à la
+croissance économique et à la crédibilité du pays débiteur.
+
+\vspace{0.6em}
+
+K. O. Ojo (1989) a montré par le biais de son étude a montré le lien
+négatif entre le ratio de l'encours de la dette et du PIB et les
+exportations et taux de croissance du PIB. En bref, plus le ratio est
+élevé plus le pays aura tendance à réduire ses exportations, et plus le
+taux de croissance sera faible. Ces études ont été menée sur une
+trentaine de pays africain entre 1976 et 1984.\newline Claessens (1990),
+Warner (1992) et Borensztein (1990) trouvent que service de la dette
+publique et endettement extérieur sont corrélé positivement.
+
+\vspace{0.6em}
+
+Warnier et Savvides en 1992 ont prouvé qu'un surendettement en ration
+encours de la dette et PIB n'avait pas d'effet négatifs sur les
+investissements. \newline Pour Clement et al., en 2003, le service de la
+dette exercerait une influence sur la croissance économique à travers
+l'effet d'éviction du service de la dette.
+
+\vspace{0.6em}
+
+En 1995, Oks et Van Wijnbergen sont les premiers a étudié la relation
+entre service de la dette et croissance économique. Pour le cas du
+Mexique, ils trouvent que l'instabilité du paiement du service de la
+dette à un impact négatif sur l'investissement privé et par extension,
+la croissance économique. \newline Cette incertitude transmettrait un
+message négatif aux investisseurs d'après Dijkstra et Hermes.
+
+\vspace{0.6em}
+
+En 2007. Swapan et al. conclut que le surendettement a un effet plus
+violent dans les pays d'Amérique Latine comparé aux pays d'Asie.
+
+\vspace{0.6em}
+
+Si les économistes qui ont étudié le sujet de la dette ont tous des avis
+divergents, beaucoup soutiennent que la dette publique peut en effet
+être un frein à la croissance économique des pays contractant cette
+dette. Nous avons aussi voulu voir quel était l'effet de l'augmentation
+du stock de dette publique sur le développement des pays en voie de
+développement. Pour ce faire nous avons choisit le cas de deux pays
+différents par leurs géographies, leurs histoires et leurs rapports à la
+dette. Nous avons choisi d'étudier le cas du Mexique et de la Tunisie.
+
+\newpage
+
+\textcolor{BlueViolet}{\underline {\Huge{\bf Chapitre 4 : Le cas de la Tunisie}}}
+
+\vspace{1em}
+
+100 milliards de dinars. Ce montant est la première information à
+laquelle on a accès lorsqu'il est question de la dette en Tunisie. En
+effet, en fin août 2021, la Tunisie a atteint un encours de la dette
+publique de 101 milliards de dinars. Elle dépasse donc le seuil
+symbolique de 100 milliards de dinars soit près de 32 milliards de
+dollars américain. De plus, d'après un rapport de « Perspectives
+économiques en Afrique du Nord 2021 : la voie vers la reprise économique
+» publié par la Banque Africaine de Développement, la Tunisie serait le
+pays avec le taux de la dette extérieur par rapport au PIB le plus élevé
+d'Afrique du En 2020, la dette extérieure de la Tunisie représentait
+97.2% du PIB alors que la norme internationale en la matière stipule que
+ce taux ne doit pas dépasser 60% du PIB pour les pays dont la dette
+n'est pas souveraine, comme la Tunisie. Comment pourrait-on expliquer
+qu'un pays comme la Tunisie soit un pays aussi endetté.
+
+\vspace{0.4em}
+
+La Tunisie comme les autres pays en voie de développement a été touché
+par la crise du Coronavirus. Au vu de son infrastructure médicale
+inégalement répartie selon les régions du pays, et de la pauvreté de ses
+moyens, la Tunisie ne pouvait supporter une telle situation. Le pays
+déjà plongé dans une situation économique difficile devait déjà faire
+face une croissance en baisse de 10% puis 2019. Son déficit budgétaire
+s'est creusé jusqu'à atteindre les 8 milliards de dinars (plus de 2
+milliards de dollars). De plus, la note de sa dette souveraine a été
+baissé à B3 par l'agence de notation Moody's. L'agence Moody's étant une
+des principales agences américaines, elle attribue des notes à certains
+acteurs selon leur degré de sûreté financière. Plus cette note est
+basse, plus les intérêts seront élevés ce qui ne fera qu'amplifier le
+poids de l'endettement ainsi que le risque de faillite. Dans le cas
+tunisien, cette situation est due à un mélange d'instabilité politique,
+d'une mauvaise gestion d'une politique d'austérité et de mesures
+libérales.
+
+\vspace{0.5em}
+
+En janvier 2011, le gouverneur de la banque centrale tunisienne avait
+annoncé le remboursement de ses dettes auprès de ses créanciers
+internationaux, cette décision fut prise au détriment des services
+publiques. Effectivement, la qualité du service publique n'en est que
+sacrifié dans la mesure où l'état tunisien n'a plus les ressources
+nécessaires pour répondre aux besoins fondamentaux de la population.
+
+\vspace{0.4em}
+
+Il faut savoir que la structure de la dette tunisienne est telle qu'une
+majorité de cette dernière est extérieure. Selon les résultats
+provisoires de l'exécution du budget de l'Etat en fin novembre 2022, la
+dette publique s'élève à102,8 Milliards de dinars, en hausse de 10,5%
+par rapport à 2020 et de 23,4% par rapport à 2019. La part de la dette
+intérieure en dinars et en devises est passée de 29,7% en 2019 à 39,9% à
+fin 2021, tandis que le poids de la dette extérieure est passé de 70,3 %
+en 2019 à 60,1 % en 2021.Cela nous ramène à la même structure de dette
+qu'en 2010c'est-à-dire avec une dette extérieure représentant 60,65% la
+dette publique et la dette intérieure en représentant 39,35%. En 2018,
+le service de la dette représentait 22 % des dépenses publiques. Entre
+2011 et 2019, la dette extérieure publique est passé de 15 à 23, 9
+milliards de dollars. En 2011, cela correspondait à 40% du PIB contre
+73% en 2019. Le ratio de la dette publique a dépassé le seuil symbolique
+des 100% en 2021. Ce résultat est en partie dû à la dépréciation du
+dinar tunisien qui a provoqué une hausse de l'encours de la dette par
+rapport aux devises contenues dans le portefeuille de la dette
+extérieur, c'est à-dire l'euro et le dollar. Ce portefeuille contient en
+majorité de l'euro ce qui marque la dominance de l'union européenne sur
+la Tunisie en fait son premier partenaire commercial.
+
+```{=tex}
+\begin{center}
+\textit{Structure de la dette extérieure de la Tunisie en devise en 2018 et en 2019} \\
+\end{center}
+\begin{center}
+  \includegraphics[width=8cm]{tunisie.jpg} \\
+\textit{Source : ilboursa.com}
+\end{center}
+```
+Durant les négociations la Tunisie se retrouve donc lésée dans ces
+échanges notamment avec l'accord de libre-échange signé ALECA qui ne
+fait qu'accroitre sa dette et son déficit commerciale tandis qu'il
+contribue à donner plus de pouvoir aux grandes entreprise européenne.
+
+\vspace{0.4em}
+
+Le poids de sa dette est tel que l'on peut affirmer que la Tunisie est
+aujourd'hui, et depuis de nombreuses années, plongée dans une crise de
+la dette souveraine. Ainsi, le FMI détient une mainmise sur ce pays.
+Selon le FMI, la dette tunisienne est soutenable et lui impose donc
+l'application de plans de réformes. La Tunisie en a signé deux : en 2013
+incluant un prêt du FMI de 1,74 milliard de dollars, et en 2016 avec un
+prêt à hauteur de 2,8 milliards de dollars entre 2016 et 2020. Afin de
+soutenir le pays dans sa gestion de la crise sanitaire, Le FMI lui a
+octroyé un prêt de 745 millions de dollars.
+
+\vspace{0.6em}
+
+Les principaux bailleurs de fonds de la Tunisie sont la Banque mondiale,
+le FMI et la Banque africaine de développement. Ils détiennent 80%
+environs de la dette multilatérale en 2018 qui elle-même représente 50%
+la dette extérieur publique. La Tunisie a énormément émis sur les
+marchés financiers ces dernières années, la part de la dette émise
+représente 36,8% l'encours de la dette extérieure la même année. D'après
+la composition de la dette extérieure de la Tunisie, on peut voir qu'au
+niveaux des créanciers bilatéraux, la France en détient 35%. Autrement
+dit, la France est le plus gros créancier bilatéral de la Tunisie en
+comptant l'ensembles des pays arabes qui détiennent 23% et le Japon qui
+en détient 15.
+
+\vspace{0.6em}
+
+L'Instance de Vérité et Dignité affirme que plus de 80% des prêts
+contracté par la Tunisie dans la période comprise entre 2011 et 2016 ont
+servi à rembourser sa dette odieuse contracté par l'ancien régime. L'IVD
+a été créé en 2013, sa mission est d'enquêter sur les violations des
+droits de l'hommes commis entre 1955 et 2013. Dans un rapport en 2019,
+elle montre la responsabilité du FMI et de la banque mondiale dans cette
+problématique de dette odieuse. Il serait question de violation de des
+droits fondamentaux. L'IVD demande aux institutions de de réparer les
+préjudices subis bien que cela fasse l'objet de nombreux de débat.
+\newline La Tunisie étant ainsi prise au piège dans une spirale de
+l'endettement, elle est alors contrainte de mettre en place des réformes
+qui ne sont pas adaptés à son contexte économique. Elle réserve une plus
+grosse partie de son budget au remboursement de la dette extérieure
+(25,8 %) que pour les dépenses liées à la santé (14 %). Ce sont des
+observations inquiétantes compte tenu du fait de la crise du Corona
+Virus où les besoins dans le domaine de la santé se sont fortement
+accrus. De plus, la Tunisie étant un pays intermédiaire selon la Banque
+Mondiale, elle n'est donc pas éligible à l'ISSD (Initiative de
+suspension du service de la dette décidée au printemps 2020 au début de
+la crise liée à la pandémie de Covid-19). Néanmoins, elle a pu recevoir
+un prêt du FMI, plus exactement une FCR, c'est-à-dire, une facilité de
+crédit rapide représentant 745 millions de dollars en avril 2020. Ce
+prêt est une aide qui permettrait à la Tunisie de faire face à la
+pandémie. Ce prêt s'accompagne pour la Tunisie d'un engagement à mettre
+en place des politiques d'austérité. Le problème relevé est que la
+Tunisie s'engage régulièrement à mener ce genre de politique depuis
+1986. \newline Pour ces raisons, il y a eu plusieurs tentatives pour
+auditer la dette tunisienne mais aucune n'ont abouti. Un audit de la
+dette se défini comme étant une évaluation de la dette d'un pays. Ainsi,
+on peut étudier la dette en analysant les raisons pour lesquelles elle a
+été contractée et la manière dont ça a été fait. Cela aurait pourtant
+permis au pays de déclarer sa dette odieuse. Comme la ministre belge des
+Affaires étrangères, Sophie Wilmès, a dernièrement à la Chambre : « Le
+soutien à la transition démocratique en Tunisie demeure une priorité
+pour la Belgique et pour l'Europe ».
+
+\vspace{0.6em}
+
+Si les pays déclarant soutenir la Tunisie sont nombreux au sein de
+l'Union européenne comme ailleurs, beaucoup peinent à mettre en place
+des actions qui iraient dans ce sens. L'action la plus citée est
+l'annulation de la dette tunisienne. Par exemple, le 19 juillet 2011, il
+a été demandé au Sénat belge de reconsidérer le remboursement de la
+dette bilatérale de la Tunisie envers la Belgique. Il était aussi
+question de l'audit de cette dette afin de qualifier cette dette odieuse
+qui a été contracté par un gouvernement non démocratique, ne respectant
+pas les droits de l'homme, sachant que la contractation de cette dette
+n'a pas profité aux populations locales. Le but de l'annulation de la
+dette odieuse étant d'aider la jeune démocratie de pouvoir développer
+son économie en répondant aux besoins socio-économiques de sa
+population. \newline En 2016, les problématiques liées à la crise de la
+dette sont réapparues en Tunisie dans le cadre sur la loi sur le
+filtrage de la dette publique soumis au Conseil représentatif du peuple
+(ARP) même si rien n'avait été encore décidé concernant les créances
+belges. En début décembre 2016, la Belgique propose de convertir la
+dette de 11,5% (3 milliards de d'euro) représentant les échéances de
+2017 et 2018 pour les prêts accordés dans le passé. La Belgique détenant
+0,13% de la dette publique tunisienne. A ce moment, la Tunisie
+connaissait son premier défaut de paiement sur un prêt du Qatar d'une
+valeur de 500 millions de dollars. Ainsi, les intérêts dus sur les
+capitaux de la dette seront considérés comme étant une aide publique au
+développement. Cela n'a pas été fait, car la Belgique doit tenir compte
+du Club de Paris et du FMI qui considèrent que la Tunisie est capable de
+rembourser ses dettes.
+
+\newpage
+
+\textcolor{BlueViolet}{\underline {\Huge{\bf Chapitre 5 : Le cas du Mexique}}}
+
+\vspace{1em}
+
+Comment aborder le sujet de l'impact de la dette sur le développement
+des pays en voie de développement sans parler du Mexique. Nous avons
+choisi d'étudier le cas de ce pays car c'est une figure importante de la
+question de la dette. En effet, il est l'un des pays déclencheur d'une
+crise de la dette sans précédent et infernale qui s'étendra sur de
+nombreux pays en voie de développement. En effet, en août 1982, le
+Mexique annonce qu'il ne remboursera pas ses créanciers ce qui
+provoquera la faillite de plusieurs établissements bancaires
+internationaux. Le Mexique, comme les autres pays, croulait sous le
+poids du paiement du service de la dette. Ce n'était pas la première
+fois que le Mexique faisait le choix de la répudiation de sa dette. Il
+avait déjà répudié sa dette sur la base d'une dette odieuse en 1861 et
+1914 dans le cadre d'une révolution populaire. Dans cette partie, nous
+allons expliquer le lien qu'entretient le Mexique avec sa dette publique
+sur une période allant des années 80 à nos jours afin de pouvoir
+entreprendre une étude économétrique de l'impact de la dette sur le
+développement du Mexique.
+
+\vspace{0.4em}
+
+Dans les années 1980, les pays d'Amérique latine ont connu des
+situations économiques similaires. Le Mexique, tout comme les autres
+pays émergents, connait une période de crise. Entre 1981 et 1989, les
+salaires chutent de 40 %. En août 1982, à la suite des chocs pétroliers
+de 1973 et de 1979, le Mexique est déclaré comme étant en faillite et
+annonce la suspension du remboursement d'une partie de ses dettes
+intérieures et extérieurs. Cela s'est répercuté sur l'Argentine et le
+Brésil la même année et sur le Pérou en 1983. A eux quatre, c'est 233
+milliards de dollars de dettes. Cette situation sème la panique et
+ébranle le système international. Dans la crainte de ne pas être
+remboursés, les créanciers du Mexique lui ont proposé des plans
+d'ajustements. L'Etat a donc décidé de suspendre ses projets
+d'investissement et d'entreprendre la mise en place de politiques
+d'austérité afin de pouvoir rembourser ses dettes mais ce fut un échec.
+En 1984, le Mexique fut le premier pays à bénéficier d'un
+rééchelonnement de sa dette qui lui permit de l'étaler sur quatorze ans
+sachant que cela se faisait sur deux ou trois ans grâce à l'intervention
+du Club de Paris pour les créanciers publics et du Club de Londres pour
+les créanciers privés. En 1987, le Mexique dû faire face à un krach
+boursier qui provoqua une fuite des capitaux ainsi que la dévaluation du
+peso, cette dernière était une mesure nécessaire pour maintenir la
+compétitivité de son industrie. Le plan Brady de 1988 permit au Mexique
+d'alléger le poids de sa dette. La même année, La banque mondiale et le
+FMI permit au Mexique d'appliquer des réformes structurelles en accord
+avec le consensus de Washington. Une série de privatisation s'en suivit
+notamment dans le secteur bancaire. Durant cette période, on observa une
+libéralisation progressive de l'économie mexicaine qui fut marquée par
+l'adhésion du Mexique au GATT et à l'OMC en 1986 puis à l'ALENA en 1994.
+La situation a pu donc s'améliorer. Le Mexique connu ensuite une période
+où la consommation et l'investissement augmentaient, une situation qui
+put se faire du fait des facilités de crédit sans limites des banques
+mexicaines, d'une forte baisse de l'épargne individuelle qui fragilisait
+les banques nationales, et de l'afflux des capitaux extérieurs provoqué
+par une baisse des taux d'intérêts américains dans les années 90.
+
+\vspace{0.4em}
+
+Entre 2012 et 2015, on a pu observer une dégradation des finances
+publiques mexicaine avec un déficit budgétaire allant de -2,3% en 2013
+et -3,3% en 2015. Si le gouvernement avait prévu une accélération de la
+croissance économique qui aurait eu pour effet de limiter l'augmentation
+de la dette, cela ne s'est pas produit et cela a induit à une
+augmentation du ratio de la dette par rapport au PIB. Soit 49,4% du PIB
+fin 2016. En 2017, grâce aux mesures de coupes budgétaires, le ratio a
+pu baisser jusqu'à atteindre 47,2 % en fin 2017 et 46,4 % en juin 2018.
+Le Mexique a donc connu une forte hausse du coût du service de la dette
+2,8 % du PIB quand le service de la dette représentait 1,9% en 2012.
+Cette augmentation est due à la dette des entreprises publiques telles
+que PEMEX, une entreprise publique d'exploitation du pétrole qui
+croulait sous une dette de 107 milliards de dollars en 2018. La dette de
+la société a donc augmenté de 16,8% puis 2017. Or, le gouvernement
+Mexicain a mis un point d'honneur à mettre en place un sauvetage pour
+cette entreprise. Il donnera donc la priorité au soutien de l'entreprise
+énergétique plutôt qu'à la poursuite de la libération de l'économie
+mexicaine. Le président mexicain Andres Manuel Lopez Obrador a déclaré
+en 2018 que « Tous les moyens seront mis en œuvre pour sauver notre
+souveraineté énergétique ». En décembre 2020, il creuse la dette en
+dépensant de 24 milliards de dollars supplémentaires pour soutenir Pemex
+et ses raffineries. Les pertes nettes de l'entreprise ont ainsi augmenté
+la dette financière en 2020. L'augmentation du coût du service de la
+dette à induit à une hausse de 160% sa dette extérieure et une hausse de
+91% sa dette interne. Malgré l'augmentation de la dette au cours de ses
+dernières années, la composition de cette dernière a permis de maitriser
+la situation contrairement à d'autres pays émergents. En effet, au
+Mexique, une majorité des investisseurs sont des résidents soit près de
+70%, et la dette issue des devises étrangères ne représente que 17%.
+Ainsi, le risque d'une dépréciation du peso par rapport au dollar est
+assez faible En 2020, la croissance économique a fortement ralenti à
+cause la crise sanitaire. Le Mexique fut fortement impacté par la
+pandémie en raison d'un faible système de santé et d'une forte
+dépendance à des secteurs liés aux services tel que le tourisme.
+
+\vspace{0.4em}
+
+De plus, le secteur de l'automobile fut aussi atteint. Il est question
+d'une forte baisse de la demande et de perturbations de la chaine
+d'approvisionnement. Ainsi, les investissements et la consommation ont
+fortement baissé et cela s'est traduit par une contraction du PIB de
+8,7%. Sachant que le Mexique connaissait déjà une période de récession,
+cela n'a fait qu'aggraver la situation, d'autant plus que le ratio de la
+dette a augmenté. Il est passé de 47% du PIB en 2020 à 57 % du PIB en
+2021. La pandémie du Corona virus aura révélé un système défaillant et
+n'a fait que creuser les inégalités présente au sein de la société
+mexicaine. Nous avons ici une économie où 50% de la population, vit
+d'emplois dits « informels » et est en situation de pauvreté. Le
+confinement pousse la population à choisir entre la sauvegarde de leur
+santé qui signifie donc la dégradation de leur niveau de vie et garder
+une activité professionnelle qui leur permettrait de vivre. A cela
+s'ajoute qu'une grande partie de la population ne dispose pas
+d'assurance maladie.
+
+\vspace{0.4em}
+
+Pour conclure nous dirons que le Mexique a prouvé que par le passé elle
+avait du mal à respecter ses engagements envers ses créanciers à travers
+ces multiples annulations de la dette. Beaucoup déplorent que la
+contractation de ces dettes soient abusives allant même jusqu'à
+condamner les dirigeant du pays en qualifiant leur comportement
+d'irresponsable. En effet, le Mexique, pour appliquer ses politiques
+d'austérité a dû sacrifier sa population en limitant ses dépenses
+publiques surtout en cette période crise. De plus, la situation précaire
+dans laquelle se situe l'entreprise Pemex ne qu'amplifier la dette
+publique du pays.
+
+\newpage
+
+\textcolor{BlueViolet}{\underline{\Huge {\bf Chapitre 6: L'étude économétrique }}}
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tseries)
+library(tidyverse)
+library(ggthemes)
+library(ggridges)
+library(ggpubr)
+library(readr)
+library(kableExtra)
+library(modelsummary)
+library(forcats)
+library(stargazer)
+```
+
+\section {\underline {Modèle économétrique et interprétations}}
+
+Dans cette partie, nous allons essayer d'étudier ce qui a un impact sur
+le PIB dans 2 pays, le Mexique et la Tunisie, à l'aide de plusieurs
+indicateurs.
+
+\subsection{\textcolor{purple}{\underline{Modèle}}}
+
+Notre analyse se fera sur l'effet de la dette du gouvernement sur la
+croissance économique des pays que l'on a choisi, grâce à un modèle
+économétrique et à des tests statistiques. Nous avons utilisé le
+logiciel R pour effectuer notre étude, qui se compose de régressions
+linéaires simples avec en variable dépendante le PIB et en variable
+explicative la dette. Ainsi, notre modèle est le suivant :
+
+```{=tex}
+\begin{center}
+
+$PIB= \beta_1IEM+ \beta_2POP+ \beta_3INF + \beta_4CGD + \beta_5TSS + \beta_6INV + \beta_7TRD + u$
+\end{center}
+```
+avec $\beta_1, \beta_2, \beta_3,\beta_4, \beta_5, \beta_6$ et $\beta_7$
+des paramètres à estimer et $u$ le terme d'erreur.
+
+\subsubsection{\textcolor{purple}{\underline{Présentation des indicateurs}}}
+
+Nous avons principalement recueilli nos données sur la Banque Mondiale
+et compléter les données manquantes avec l'aide du site de la FMI. Nous
+avons donc 2 bases de données, une pour chacun des pays que l'on va
+étudier. Pour le Mexique, les données vont de 1960 à 2020 environ alors
+que pour la Tunisie, les données qui nous intéressent le plus commencent
+en 1970 jusqu'à 2020.
+
+\hspace{15mm}{\textcolor{violet}{\underline{Le Produit Intérieur Brut (PIB)}}}
+
+Cet indicateur est la variable que l'on cherche à expliquer. Il va nous
+permettre d'analyser le niveau de richesse d'un pays créé sur la période
+que l'on étudie. Le PIB est la valeur de toutes les richesses produites
+sur l'ensemble de l'économie.
+
+\hspace{15mm}{\textcolor{violet}{\underline{L’indice des termes de l’échange des marchandises nets (IEM)}}}
+
+D'après la définition de la Banque Mondiale, *"l'indice des termes de
+l'échange de marchandises nets est calculé comme le rapport de l'indice
+de la valeur unitaire des exportations sur l'indice de la valeur
+unitaire des importations, mesure sur l'année de référence 2000"*.
+
+\hspace{15mm}{\textcolor{violet}{\underline{Le taux de croissance de la population (POP)}}}
+
+Le taux de croissance annuel de la population en pourcentage est
+l'évolution de la population d'une année à une autre. Il s'agit là de
+tous les résidents qu'ils aient la nationalité du pays ou non. \newpage
+
+\hspace{15mm}{\textcolor{violet}{\underline{Taux de scolarisation dans le secondaire (TSS)}}}
+
+Le taux de scolarisation est le ratio des jeunes en âge d'aller à
+l'école qui sont bel et bien scolarisés sur l'ensemble des jeunes de
+cette même tranche d'âge. L'enseignement secondaire complète l'éducation
+de base commencée au niveau primaire et vise à poser les bases de
+l'apprentissage tout au long de la vie et du développement humain, en
+offrant un enseignement plus axé sur les matières ou les compétences,
+avec des enseignants plus spécialisés. Ce taux est donné en pourcentage
+net.
+
+\hspace{15mm}{\textcolor{violet}{\underline{Dette (Central government debt, CGD)}}}
+
+La dette est l'ensemble des obligations contractuelles directes de
+l'État à terme fixe envers des tiers, en cours à une date donnée. Elle
+comprend les engagements nationaux et étrangers tels que les dépôts
+monétaires, les titres autres que les actions et les prêts. Il s'agit du
+montant brut des engagements publics, diminué du montant des actions et
+des produits financiers dérivés détenus par l'État. La dette étant un
+stock plutôt qu'un flux, elle est mesurée à une date donnée,
+généralement le dernier jour de l'année fiscale. Elle est exprimée en
+pourcentage du PIB.
+
+\hspace{15mm}{\textcolor{violet}{\underline{Echanges - Trade (TRD)}}}
+
+Les échanges sont la somme des exportations et des importations de biens
+et de services mesurée en pourcentage du PIB.
+
+\hspace{15mm}{\textcolor{violet}{\underline{Inflation, prix à la consommation (INF)}}}
+
+L'inflation, soit l'indice des prix à la consommation est la variation
+annuelle en pourcentage du coût, pour le consommateur moyen, de l'achat
+d'un panier de biens et de services qui peut être fixé ou peut varier
+selon les intervalles, par exemple chaque année. Elle est exprimée en
+pourcentage annuel.
+
+\hspace{15mm}{\textcolor{violet}{\underline{Taux d’investissement (INV)}}}
+
+Le taux d'investissement est un facteur important dans la croissance
+d'un pays. Il prend en compte le stock de capital physique du pays comme
+les infrastructures, les usines, les équipements, les machines, qui
+serviront à produire mieux tant en quantité qu'en qualité ; mais aussi
+le stock de capital humain qui deviendra plus performant en ayant de
+meilleurs équipements, ou des connaissances qui leur permettront
+d'améliorer leur efficacité. Plus le taux d'investissement est élevé et
+plus il y aura de la croissance dans le pays ce qui jouera positivement
+sur le PIB. Il est mesuré en pourcentage du PIB.
+
+\subsection{\textcolor{purple}{\underline{Analyse économétrique}}}
+
+Pour cette partie, nous avons décidé de faire une analyse par pays.
+
+\hspace{15mm}{\textcolor{violet}{\underline{\bf{La Tunisie}}}}
+
+Pour commencer, nous avons effectué la régression du modèle suivant :
+
+```{=tex}
+\begin{center}
+$PIB= \beta_1IEM + \beta_2POP + \beta_3INF + \beta_4CGD + \beta_5TSS + \beta_6INV + \beta_7TRD $
+\end{center}
+```
+```{r, echo=FALSE}
+tun<-read.csv(file="Tunisie.csv",header=TRUE, sep=";")
+```
+
+Après avoir importer notre base de données, on commence par regarder la
+classe des indicateurs.\
+
+```{r}
+str(tun) # classes de toutes les variables
+```
+
+La majorité des indicateurs étant des chaînes de caractères avec
+lesquelles nous ne pouvons pas travailler, nous les avons transformé en
+numérique.\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tun$IEM<-gsub(",",".", tun$IEM)
+tun$IEM<-as.numeric(tun$IEM)
+
+tun$POP<-gsub(",",".", tun$POP)
+tun$POP<-as.numeric(tun$POP)
+
+tun$INF<-gsub(",",".", tun$INF)
+tun$INF<-as.numeric(tun$INF)
+
+tun$INV<-gsub(",",".", tun$INV)
+tun$INV<-as.numeric(tun$INV)
+
+tun$TSS<-gsub(",",".", tun$TSS)
+tun$TSS<-as.numeric(tun$TSS)
+
+tun$CGD<-gsub(",",".", tun$CGD)
+tun$CGD<-as.numeric(tun$CGD)
+
+tun$TRD<-gsub(",",".", tun$TRD)
+tun$TRD<-as.numeric(tun$TRD)
+```
+
+```{r}
+str(tun)
+```
+
+Nous pouvons à présent faire la régression :
+
+```{r, results='asis'}
+reg<-lm(PIB~IEM+POP+INF+CGD+TSS+INV+TRD, data=tun)
+```
+
+```{r, results='asis', echo=FALSE, include=FALSE}
+stargazer(reg)
+```
+
+
+\begin{table}[H] \centering 
+  \caption{} 
+  \label{} 
+  \resizebox{0.5\textwidth}{!}{%
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & PIB \\ 
+\hline \\[-1.8ex] 
+ IEM & $-$92,636,529.000 \\ 
+  & (107,132,870.000) \\ 
+  & \\ 
+ POP & 12,076,316,992.000$^{***}$ \\ 
+  & (3,692,680,049.000) \\ 
+  & \\ 
+ INF & 1,640,260,175.000$^{**}$ \\ 
+  & (692,606,272.000) \\ 
+  & \\ 
+ CGD & 1,053,086.000 \\ 
+  & (206,013,369.000) \\ 
+  & \\ 
+ TSS & 1,141,100,879.000$^{***}$ \\ 
+  & (103,148,776.000) \\ 
+  & \\ 
+ INV & $-$27,320,669.000 \\ 
+  & (320,886,393.000) \\ 
+  & \\ 
+ TRD & $-$452,541.600 \\ 
+  & (81,370,608.000) \\ 
+  & \\ 
+ Constant & $-$66,205,549,394.000$^{**}$ \\ 
+  & (28,096,914,582.000) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 32 \\ 
+R$^{2}$ & 0.961 \\ 
+Adjusted R$^{2}$ & 0.949 \\ 
+Residual Std. Error & 3,204,142,297.000 (df = 24) \\ 
+F Statistic & 84.033$^{***}$ (df = 7; 24) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+}
+\end{table} 
+
+
+
+Du fait que les coefficients obtenus étaient assez difficiles à
+manipuler, mais aussi pour avoir un meilleur ajustement, nous avons
+préféré prendre le logarithme de chaque indicateur.
+
+```{r}
+tun$lIEM<-log(tun$IEM)
+tun$lPIB<-log(tun$PIB)
+tun$lPOP<-log(tun$POP)
+tun$lINF<-log(tun$INF)
+tun$lINV<-log(tun$INV)
+tun$lTSS<-log(tun$TSS)
+tun$lCGD<-log(tun$CGD)
+tun$lTRD<-log(tun$TRD)
+```
+
+\newpage
+
+Nous obtenons donc la régression suivante :
+
+```{=tex}
+\begin{center}
+$lPIB= \beta_1lIEM + \beta_2lPOP + \beta_3lINF + \beta_4lINV + \beta_5lTSS + \beta_6lCGD + \beta_7lTRD$
+\end{center}
+```
+
+
+```{r, results='asis'}
+reg2<-lm(lPIB~lIEM+lPOP+lINF+lCGD+lTSS+lINV+lTRD, data=tun)
+```
+
+```{r, results='asis', echo=FALSE, include=FALSE}
+stargazer(reg2)
+```
+
+
+\begin{table}[H] \centering 
+  \label{} 
+  \resizebox{0.5\textwidth}{!}{%
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\hline \\[-1.4ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & lPIB \\ 
+\hline \\[-1.8ex] 
+ lIEM & 0.104 \\ 
+  & p = 0.779 \\ 
+  & \\ 
+ lPOP & 0.401$^{**}$ \\ 
+  & p = 0.028 \\ 
+  & \\ 
+ lINF & 0.269$^{***}$ \\ 
+  & p = 0.009 \\ 
+  & \\ 
+ lCGD & 0.097 \\ 
+  & p = 0.773 \\ 
+  & \\ 
+ lTSS & 2.539$^{***}$ \\ 
+  & p = 0.000 \\ 
+  & \\ 
+ lINV & 0.322 \\ 
+  & p = 0.254 \\ 
+  & \\ 
+ lTRD & $-$0.099 \\ 
+  & p = 0.679 \\ 
+  & \\ 
+ Constant & 11.271$^{***}$ \\ 
+  & p = 0.007 \\ 
+  & \\
+\hline \\[-1.5ex] 
+Observations & 32 \\ 
+R$^{2}$ & 0.979 \\ 
+Adjusted R$^{2}$ & 0.972 \\ 
+Residual Std. Error & 0.099 (df = 24) \\ 
+F Statistic & 156.640$^{***}$ (df = 7; 24) \\ 
+\hline
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+}
+\end{table}
+
+
+Donc on obtient le modèle suivant :
+
+$lPIB = 11.271+0.104lEM+0.401lPOP+0.269lINF+0.097lCGD+2.569lTSS+0.322lINV-0.099lTRD$
+\newpage
+
+
+\underline{Interprétation du modèle :}
+
+-   Lorsque l'indice des termes d'échanges des marchandises nets
+    augmentent de $1\%$, alors le PIB augmente de **10.4%**.
+
+-   Lorsque le taux de croissance de la population augmente de $1\%$, le
+    PIB augmente de **40.1%**.
+
+-   Lorsque l'inflation augmente de $1\%$, le PIB augmente de **26.9%**.
+
+-   Lorsque la dette du gouvernement augmente de $1\%$, le PIB augmente
+    de **9.7%**.
+
+-   Lorsque le taux de scolarisation dans le secondaire augmente de
+    $1\%$, le PIB augmente de **256.9%**.
+
+-   Lorsque le taux d'investissement augmente de $1\%$, le PIB augmente
+    de **32.2%**.
+
+-   Lorsque les échanges augmentent de $1\%$, le PIB baisse de **9.9%**.
+
+-   Lorsque tous ces indicateurs sont nuls, le PIB est en moyenne de
+    $exp(11.271)= 78511.47\$$
+
+\vspace{-2em}
+
+\subsubsection{\textcolor{cyan}{\underline{\bf{L'évolution du PIB}}}}
+
+Par ailleurs, nous voulons voir l'évolution du PIB en fonction des
+indicateurs au fil des années.\
+
+
+\underline{Evolution du PIB en fonction de \bf{l’indice des termes de l’échange des marchandises nets} :}\
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.height=4, fig.width=6}
+tun %>%
+  ggplot() + 
+  aes(x = lIEM, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction de l'indice des termes d'échanges 
+       des marchandises nets ",
+    x = "Indice des termes d'échange en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+
+Entre les années 1960 et 1980, l'indice des termes d'échange tourne aux
+alentours de 4.7 et 4.8% avec un log(PIB) d'environ 22. \newline De 1980
+à 2000, cet indice baisse pour passer à moins de 4.6% mais qu présente
+un log(PIB) entre 23.5 et 24. \newline Enfin, entre 2000 et 2020, cet
+indice augmente de nouveau (entre 4.6 et 4.8%) avec un log(PIB) qui
+augmente également et atteint en moyenne 24.5.
+
+\
+
+\underline{Evolution du PIB en fonction du \bf{taux de croissance de la population}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tun %>%
+  ggplot() + 
+  aes(x = lPOP, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction de la croissance démographique en logarithme",
+    x = "Taux de croissance de la population en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+
+\vspace{1em}
+
+Durant les années 1960 à 1990, le taux de croissance de la population
+est compris entre 0.6 et 0.8, avec un log(PIB) qui augmente et va de 21
+à 23.\newline Entre les années 1990 et 2010, le taux de croissance
+baisse tout au long des années(passe de 0.8 à -0.2) alors que le PIB
+continue d'augmenter (entre 23 et 24). \newline De 2010 à nos jours, la
+croissance démographique semble être stable et tourne au tour de 0 avec
+un log(PIB) à 24.5.
+
+\newpage
+
+\underline{Evolution du PIB en fonction du \bf{taux d'inflation}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tun %>%
+  ggplot() + 
+  aes(x = lINF, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction du taux d'inflation en logarithme",
+    x = "Taux d'inflation en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+\vspace{1.5em}
+
+On remarque ici que le taux d'inflation baisse de 2.2 à 1 entre les
+années 1960 à 2000 environ avec un log(PIB) compris entre 22.5 et 24.
+\newline Entre les années 2000 et 2020, le taux d'inflation repart à la
+hausse (entre 1 et 1.8) et un log(PIB) en moyenne à 24.5.
+
+\newpage
+
+\underline{Evolution du PIB en fonctin du \bf{taux d'investissement}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tun %>%
+  ggplot() + 
+  aes(x = lINV, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction du taux d'investissement",
+    x = "Taux d'investissement en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+
+\vspace{1.5em}
+
+Le taux d'investissement baisse de 3.4 à 3 puis augmente jusqu'3.4 entre
+les années 1960 et 1980 avec un log(PIB) qui augmente lorsque le taux
+d'investissement augmente pour atteindre 22.5. \newline A partir des
+années 2000 jusqu'à aujourd'hui, on remarque que le taux
+d'investissement baisse et que le PIB commence à stagner aux alentours
+de 24.5.
+
+\newpage
+
+\underline{Evolution du PIB en fonction du \bf{taux de scolarisation dans le secondaire}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tun %>%
+  ggplot() + 
+  aes(x = lTSS, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction du taux de scolarisation dans 
+              le secondaire en logarithme",
+    x = "Taux de scolarisation", y = "PIB en $") +
+  theme_minimal()
+```
+
+\vspace{1.5em}
+On peut remarquer que la tendance du taux de scolarisation dans le
+secondaire augmente au fil des années ce qui a un impact positif sur le
+PIB. \newline En effet, dans les années 2020, le taux de scolarisation
+atteint son plus haut niveau (4.5) et le PIB est de 24.5.
+
+\newpage
+
+\underline{Evolution du PIB en fonction de la \bf{dette de l'Etat}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tun %>%
+  ggplot() + 
+  aes(x = lCGD, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction de la dette du gouvernement en logarithme",
+    x = "Dette ", y = "PIB en $") +
+  theme_minimal()
+
+```
+
+\vspace{1.5em}
+En ce qui concerne la dette, on aperçoit qu'elle a un effet positif sur
+le PIB entre les années 1960-1970. En effet, la dette baisse petit à
+petit (3.75 à 3.25) et le PIB augmente jusqu'à 22. \newline Entre les
+années 70 et environ 2000, la dette de l'Etat augmente et passe de 3.25
+à 4 mais le PIB continue tout de même croît toujours et atteint
+24.\newline La dette rediminue entre 2000 et 2010 avec un PIB qui
+augmente. \newline Par ailleurs, on remarque que la dette commence à
+avoir un impact négatif sur le PIB à partir des années 2010 car la dette
+augmente (passe de 3.75 à 4.5) et le PIB baisse légèrement au fil des
+années.
+
+\newpage
+
+\underline{Evolution du PIB en fonction des \bf{échanges}:}
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+tun %>%
+  ggplot() + 
+  aes(x = lTRD, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction des échanges en logarithme",
+    x = "Echanges", y = "PIB en $") +
+  theme_minimal()
+```
+
+On peut relever le peu d'échanges de la Tunisie entre les années 1960 et
+1990. \newline De 1990 à 2020, les échanges du pays augmentent et
+passent de 4.4 à 4.8, ce qui a un impact positif sur le PIB qui passe de
+23 à 25.
+
+\subsubsection{\textcolor{cyan}{\underline{\bf{Test de significativité globale des paramètres}}}}
+
+Pour vérifier si les coefficients sont statistiquement significatifs, on
+utilise un test de Student bilatéral en testant les hypothèses suivantes
+: $$\begin{cases} H_0: \beta_k = 0 \\H_1: \beta_k\ne 0 \end{cases}$$ \|
+Puis on calcule la statistique :
+$$t_k=\frac{|\hat{\beta}_k|}{\hat{\sigma}_{\hat{\beta}_k}} \sim T_{N}$$\
+\| Enfin, si $t_k > c_\alpha$ alors on rejette l'hypothèse de nullité du
+coefficient --- Le coefficient $\beta_k$ est **significatif**, avec un
+risque $\alpha$ de se tromper.
+
+-   Interprétation pour la constante $\beta_0$ : la pvalue =
+    $0.007 <0.05$ donc le coefficient est très significatif.
+-   Interprétation pour le coefficient $\beta_1$ associé à la variable
+    $lIEM$ : la pvalue = $0.779> 0.1$ donc le coefficient n'est pas
+    significatif.
+-   Interprétation pour le coefficient $\beta_2$ associé à la variable
+    $lPOP$ : la pvalue = $0.028< 0.05$ donc le coefficient est très
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $<5 \%$.
+-   Interprétation pour le coefficient $\beta_3$ associé à la variable
+    $lINF$ : la pvalue = $0.009< 0.01$ donc le coefficient est très
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $< 1 \%$.
+-   Interprétation pour le coefficient $\beta_4$ associé à la variable
+    $lCGD$ : la pvalue = $0.773> 0.1$ donc le coefficient n'est pas
+    significatif.
+-   Interprétation pour le coefficient $\beta_5$ associé à la variable
+    $lTSS$ : la pvalue = $0.000< 0.01$ donc le coefficient est très
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $< 1 \%$.
+-   Interprétation pour le coefficient $\beta_6$ associé à la variable
+    $lINV$ : la pvalue = $0.254> 0.1$ donc le coefficient n'est pas
+    significatif.
+-   Interprétation pour le coefficient $\beta_7$ associé à la variable
+    $lTRD$ : la pvalue = $0.679> 0.1$ donc le coefficient n'est pas
+    significatif.
+
+\subsubsection{\textcolor{cyan}{\underline{\bf{Détermination du seuil de la dette}}}}
+
+On ajoute la variable CGD au carré qui est la dette du gouvernement en
+pourcentage du PIB pour pouvoir déterminer le seuil de la dette. On
+prend la valeur en logarithme pour avoir plus de précisions.\
+
+```{r}
+CGD2<-tun$CGD^2
+LCGD2<-tun$lCGD^2
+```
+
+On a donc le modèle suivant :\
+
+```{=tex}
+\begin{center}
+$lPIB = \beta_1lIEM+\beta_2lPOP+\beta_3lINF+\beta_4lCGD+\beta_5lTSS+\beta_6lINV+\beta_7lTRD+\beta_8LCGD2+u$
+\end{center}
+```
+
+Ainsi, pour déterminer le seuil de la dette, on fait la maximisation de
+notre modèle. On dérive le taux de croissance du PIB en log par la dette
+en log dans l'équation. On obtient :
+
+```{=tex}
+\begin{center}
+\large{$\frac{\partial_lPIB}{\partial_lCGD} = \beta_4+2\beta_8lCGD$}
+\end{center}
+```
+A l'optimum, on a :
+\vspace{-0.5em}
+```{=tex}
+\begin{center}
+\large{$\frac{\partial_lPIB}{\partial_lCGD} = 0$}
+\end{center}
+```
+alors
+\vspace{-0.5em}
+```{=tex}
+\begin{center}
+\large{$lCGD = \frac{-\beta_4}{2\beta_8}$}
+
+\end{center}
+```
+
+\vspace{0.5em}
+```{r, results='asis'}
+reg3<-lm(lPIB~lIEM+lPOP+lINF+lCGD+lTSS+lINV+lTRD+LCGD2, data=tun)
+```
+
+\begin{table}[H] \centering 
+\resizebox{0.6\textwidth}{!}{%
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & lPIB \\ 
+\hline \\[-1.8ex] 
+ lIEM & 0.126 \\ 
+  & p = 0.739 \\ 
+  & \\ 
+ lPOP & 0.421$^{**}$ \\ 
+  & p = 0.026 \\ 
+  & \\ 
+ lINF & 0.278$^{***}$ \\ 
+  & p = 0.009 \\ 
+  & \\ 
+ lCGD & 6.740 \\ 
+  & p = 0.517 \\ 
+  & \\ 
+ lTSS & 2.591$^{***}$ \\ 
+  & p = 0.000 \\ 
+  & \\ 
+ lINV & 0.385 \\ 
+  & p = 0.205 \\ 
+  & \\ 
+ lTRD & $-$0.173 \\ 
+  & p = 0.520 \\ 
+  & \\ 
+ LCGD2 & $-$0.846 \\ 
+  & p = 0.523 \\ 
+  & \\ 
+ Constant & $-$1.971 \\ 
+  & p = 0.926 \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 32 \\ 
+R$^{2}$ & 0.979 \\ 
+Adjusted R$^{2}$ & 0.972 \\ 
+Residual Std. Error & 0.100 (df = 23) \\ 
+F Statistic & 133.809$^{***}$ (df = 8; 23) \\ 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+}
+\end{table}
+
+
+Donc on obtient le modèle suivant :
+
+```{=tex}
+\begin{center}
+$lPIB = -1.971+ 0.126lIEM +0.421lPOP + 0.278lINF + 6.740lCGD + 2.591lTSS + 0.385lINV -0.173lTRD -0.846LCGD2$
+\end{center}
+```
+Seuil de la dette :
+
+```{=tex}
+\begin{center}
+$lCGD = \frac{ -\beta_4}{ 2\beta_8} = \frac{-6.740}{ 2*(-0.846)} = 3.9835 $
+\end{center}
+```
+Donc **le seuil à partir duquel la dette a un impact négatif sur le PIB
+est 3.983%** c'est-à-dire que le niveau optimal de la dette de la
+Tunisie est 3.983% du PIB, la dette a un effet négatif au dessus de ce
+seuil.
+
+\subsubsection{\textcolor{cyan}{\underline {\bf{Test de Chow}}}}
+
+On réalise un test de Chow pour déterminer si les coefficients estimés
+dans un modèle avec la constante et $lCGD$ comme variable explicative
+sont égaux pour les années avant et après 2000.
+
+Le test de Chow est un test économétrique qui permet de vérifier si les
+coefficients de deux séries sont égaux. Les coefficients sont établis
+par règression linèaire.
+
+Dans ce cas, on souhaite vérifier si la constante et l'éffet marginal de
+la variable $lCGD$ sur le PIB ($lPIB$) sont les mêmes pour les années
+avant et après 2000. Pour réaliser le test, il faut d'abord scinder
+l'échantillon en deux sur la base des années que l'on a dans notre base
+de données. Ensuite on estime le même modèle sur les deux
+sous-échantillons. La première estimation est réalisée sur les
+observations des années avant l'année 2000: \begin{equation}
+lPIBav=\beta_0+\beta_1 lCGDav +\varepsilon_i
+\end{equation} La deuxième est réalisée sur les observations des années
+après l'année 2000: \begin{equation}
+lPIBap=\beta_3+\beta_4 lCGDap +\varepsilon_i
+\end{equation}
+
+Afin de réaliser le test on effectue une troisième estimation sur tout
+l'échantillon.
+
+Les hypothèses du test de Chow sont, $H_0: \beta_0=\beta_3$ et
+$\beta_1=\beta_4$, $H_1: \beta_0 \neq \beta_3$ ou $\beta_1\neq \beta_4$.
+
+La statistique de test est: \begin{equation}
+\frac{[SCR-(SCR1+SCR2)]/k}{(SCR1+SCR2)/(N1+N2-2k)} \sim F_{k, N1+N2-2k}
+\end{equation}
+
+La statistique du test suit une loi de Fisher avec $df1 = k$ et
+$df2 = N1 + N2 - 2k$ degrés de liberté. Si on rejette l'$H_0$ on peut
+affirmer que la constante et le coefficient associé à la dette sont
+égaux pour les années avant et après 2000.
+
+```{r}
+summary(reg4<-lm(lPIB~lCGD, data=tun))
+```
+
+\
+**On peut voir que dans le modèle complet, le coefficient de la
+constante est égal à** \textcolor{red}{12.95} et celui de l'indicateur
+de la dette est de \textcolor{red}{2.7266}.\
+
+```{r}
+summary(regmin<-lm(lPIB~lCGD,data=subset(tun, Année<2000)))
+```
+
+\
+**Pour la régression contenant les données des années avant 2000, la
+constante égale à** \textcolor{red}{14.154},la variable de la dette a un
+coefficient de \textcolor{red}{2.3263}.\
+
+```{r}
+summary(regmaj<-lm(lPIB~lCGD,data=subset(tun,Année>=2000)))
+```
+
+\
+**Pour la régression comprenant les années après 2000, la constante est
+égale à** \textcolor{red}{24.154}, et le coefficient de la dette est de
+\textcolor{red}{0.0491}.\
+
+On peut donc dire qu'il y a une rupture avant et après les années 2000
+puisqu'on n'a pas les mêmes coefficients selon les différentes
+régressions. Les indicateurs n'ont pas le même effet dans le temps.\
+On effectue le test :\
+
+```{r, message=FALSE, warning=FALSE}
+SCRmin=sum(regmin$residuals^2)
+SCRmaj=sum(regmaj$residuals^2)
+SCRtot=sum(reg4$residuals^2)
+(CHOWF=((SCRtot-(SCRmin+SCRmaj))/(SCRmin+SCRmaj))*(62-7)/(2))
+qf(.95, df1=2, df2=55) 
+# p value
+pf(CHOWF,df1=2, df2=55,lower.tail = FALSE)
+```
+
+Donc comme le montre le test, on peut rejeter l'$H_0$ car il semble y
+avoir des différences sur les deux paramètres avant et après l'année
+2000.
+
+\vspace{2em}
+
+\hspace{15mm}{\textcolor{violet}{\underline{\bf{Le Mexique}}}}
+
+\vspace{1em}
+
+L'étude sur le Mexique sera fait de la même manière que celle pour le
+Tunisie.\
+
+Nous gardons le même modèle :
+
+```{=tex}
+\begin{center}
+$PIB= \beta_1IEM + \beta_2POP + \beta_3INF + \beta_4CGD + \beta_5TSS + \beta_6INV + \beta_7TRD $
+\end{center}
+```
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+mex<-read.csv(file="Mexique.csv",header=TRUE, sep=";")
+```
+
+On regarde la classe des indicateurs :
+
+```{r}
+str(mex)
+```
+
+
+On effectue les mêmes commandes pour pouvoir transformer les chaînes de
+caractères en numérique.
+
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+mex$IEM<-gsub(",",".", mex$IEM)
+mex$IEM<-as.numeric(mex$IEM)
+
+mex$PIB<-gsub(",",".", mex$PIB)
+mex$PIB<-as.numeric(mex$PIB)
+
+mex$POP<-gsub(",",".", mex$POP)
+mex$POP<-as.numeric(mex$POP)
+
+mex$INF<-gsub(",",".", mex$INF)
+mex$INF<-as.numeric(mex$INF)
+
+mex$INV<-gsub(",",".", mex$INV)
+mex$INV<-as.numeric(mex$INV)
+
+mex$TSS<-gsub(",",".", mex$TSS)
+mex$TSS<-as.numeric(mex$TSS)
+
+mex$CGD<-gsub(",",".", mex$CGD)
+mex$CGD<-as.numeric(mex$CGD)
+
+mex$TRD<-gsub(",",".", mex$TRD)
+mex$TRD<-as.numeric(mex$TRD)
+
+```
+
+```{r}
+str(mex)
+```
+
+Nous pouvons maintenant effectuer la régression :
+
+```{r}
+reg5<-lm(PIB~IEM+POP+INF+CGD+TSS+INV+TRD, data=mex)
+```
+
+
+\begin{table}[H] \centering 
+  \caption{Régression linéaire simple pour le Mexique} 
+  \label{} 
+  \resizebox{0.5\textwidth}{!}{%
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & PIB \\ 
+\hline \\[-1.8ex] 
+ IEM & 738,318,536.000 \\ 
+  & (876,063,755.000) \\ 
+  & \\ 
+ POP & $-$383,782,947,985.000 \\ 
+  & (269,572,810,234.000) \\ 
+  & \\ 
+ INF & $-$501,045,627.000 \\ 
+  & (1,068,003,037.000) \\ 
+  & \\ 
+ CGD & $-$1,746,318,765.000 \\ 
+  & (3,253,771,909.000) \\ 
+  & \\ 
+ TSS & 21,657,635,286.000$^{***}$ \\ 
+  & (3,610,021,538.000) \\ 
+  & \\ 
+ INV & 31,700,036,836.000$^{**}$ \\ 
+  & (13,664,159,057.000) \\ 
+  & \\ 
+ TRD & $-$8,297,142,588.000$^{*}$ \\ 
+  & (4,347,500,663.000) \\ 
+  & \\ 
+ Constant & $-$616,894,574,171.000 \\ 
+  & (512,206,675,287.000) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 39 \\ 
+R$^{2}$ & 0.958 \\ 
+Adjusted R$^{2}$ & 0.949 \\ 
+Residual Std. Error & 91,146,825,632.000 (df = 31) \\ 
+F Statistic & 101.922$^{***}$ (df = 7; 31) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular}
+}
+\end{table}
+
+
+Pour une meilleure précision du modèle ainsi qu'une manipulation des
+coefficients plus simple, nous prenons le logarithme de tous les
+indicateurs.\
+
+```{r}
+mex$lIEM<-log(mex$IEM)
+mex$lPIB<-log(mex$PIB)
+mex$lPOP<-log(mex$POP)
+mex$lINF<-log(mex$INF)
+mex$lINV<-log(mex$INV)
+mex$lTSS<-log(mex$TSS)
+mex$lCGD<-log(mex$CGD)
+mex$lTRD<-log(mex$TRD)
+```
+
+Le modèle que nous obtenons avec les logarithmes est donc le suivant :\
+
+```{=tex}
+\begin{center}
+$lPIB= \beta_1lIEM + \beta_2lPOP + \beta_3lINF + \beta_4lINV + \beta_5lTSS + \beta_6lCGD + \beta_7lTRD$
+\end{center}
+\vspace{2mm}
+```
+
+
+
+```{r}
+reg6<-lm(lPIB~lIEM+lPOP+lINF+lCGD+lTSS+lINV+lTRD, data=mex)
+```
+
+
+\begin{table}[H] \centering 
+  \caption{Régression linéaire en log} 
+  \label{} 
+  \resizebox{0.5\textwidth}{!}{%
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & lPIB \\ 
+\hline \\[-1.8ex] 
+ lIEM & 0.036 \\ 
+  & p = 0.818 \\ 
+  & \\ 
+ lPOP & $-$1.061$^{**}$ \\ 
+  & p = 0.048 \\ 
+  & \\ 
+ lINF & $-$0.206$^{***}$ \\ 
+  & p = 0.003 \\ 
+  & \\ 
+ lCGD & $-$0.304$^{**}$ \\ 
+  & p = 0.016 \\ 
+  & \\ 
+ lTSS & 0.977$^{*}$ \\ 
+  & p = 0.061 \\ 
+  & \\ 
+ lINV & 0.811$^{*}$ \\ 
+  & p = 0.085 \\ 
+  & \\ 
+ lTRD & 0.067 \\ 
+  & p = 0.818 \\ 
+  & \\ 
+ Constant & 21.905$^{***}$ \\ 
+  & p = 0.000 \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 39 \\ 
+R$^{2}$ & 0.975 \\ 
+Adjusted R$^{2}$ & 0.970 \\ 
+Residual Std. Error & 0.130 (df = 31) \\ 
+F Statistic & 174.248$^{***}$ (df = 7; 31) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+}
+\end{table}
+
+
+Ce qui donne la régression suivante:
+
+```{=tex}
+\begin{center}
+$lPIB= 21.905 + 0.036lIEM - 1.061lPOP - 0.206lINF - 0.304lCGD + 0.977lTSS + 0.811lINV + 0.067lTRD$
+\end{center}
+```
+\underline{Interprétation du modèle:}
+
+-   Lorsque l'indice des termes d'échanges augmente de $1\%$, le PIB
+    augmente de **3.6%**.
+-   Lorsque le taux de croissance de la population augmente de $1\%$, le
+    PIB baisse de **106.1%**.
+-   Lorsque le taux d'inflation augmente de $1\%$, le PIB baisse de
+    **20.6%**.
+-   Lorsque la dette du gouvernement augmente de $1\%$, le PIB baisse de
+    **30.4%**.
+-   Lorsque le taux de scolarisation dans le secondaire augmente de
+    $1\%$, le PIB augmente de **97.7%**.
+-   Lorsque le taux d'investissement augmente de $1\%$, le PIB augmente
+    de **81.1%**.
+-   Lorsque les échanges augmentent de $1\%$,le PIB augmente de
+    **6.7%**.
+-   Lorsque tous les indicateurs sont nuls, le PIB est de
+    $exp(21.905)= 3260022715\$$
+
+
+\subsubsection{\textcolor{cyan}{\underline{\bf{L'évolution du PIB}}}}
+
+Nous allons à présent observer l'évolution du PIB en fonction des
+différents indicateurs au Mexique.
+
+\underline{Evolution du PIB en fonction de \bf{l’indice des termes de l’échange des marchandises nets} :}\
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.width=6,fig.height=4}
+mex %>%
+  ggplot() + 
+  aes(x = lIEM, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction de l'indice des termes d'échanges 
+       des marchandises nets ",
+    x = "Indice des termes d'échange en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+
+\vspace{1em}
+On remarque que l'indice des termes d'échange des marchandises baisse de
+5.75 à 4.5 entre les années 1960 et 2000. Le PIB augmente lorsque cet
+indice diminue. \newline L'indicateur a tendance à augmenter pour aller
+de 4.5 à 4.75 entre les années 2000 et 2010. Le PIB, quant à lui,
+continue de croître pour atteindre 27.5. \newline Après les années 2010,
+l'indice régresse et passe en dessous de 4.5 avec un PIB à 28.
+
+\
+
+\underline{Evolution du PIB en fonction du \bf{taux de croissance de la population}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+mex %>%
+  ggplot() + 
+  aes(x = lPOP, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction de la croissance démographique en logarithme",
+    x = "Taux de croissance de la population en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+
+\vspace{1em}
+On peut noter que le taux de croissance de la population n'a cessé de
+baisser au cours des années et que le PIB a augmenté en contrepartie.
+
+
+\newpage
+
+\underline{Evolution du PIB en fonction du \bf{taux d'inflation}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+mex %>%
+  ggplot() + 
+  aes(x = lINF, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction du taux d'inflation en logarithme",
+    x = "Taux d'inflation en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+
+\vspace{1em}
+Pour le taux d'inflation, on aperçoit qu'il a tendance à augmenter entre
+1960 et 1990 environ (passe de 0 à 5), avec le PIB qui augmente aussi
+(de 24 à 26). \newline Le taux d'inflation va ensuite à la baisse entre
+1990 et 2020 alors que le PIB continue toujours de croître.
+
+\newpage
+
+\underline{Evolution du PIB en fonctin du \bf{taux d'investissement}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+mex %>%
+  ggplot() + 
+  aes(x = lINV, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction du taux d'investissement",
+    x = "Taux d'investissement en log", y = "PIB en $ en log") +
+  theme_minimal()
+```
+
+\vspace{1em}
+
+Dans le cas du taux d'investissement, plus il augmente plus le PIB
+augmente aussi. \newline Dans les années 2010, on a un taux
+d'investissement entre 3.05 et 3.15 et le PIB en moyenne à 27.5
+
+\newpage
+
+\underline{Evolution du PIB en fonction du \bf{taux de scolarisation dans le secondaire}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+mex %>%
+  ggplot() + 
+  aes(x = lTSS, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction du taux de scolarisation dans 
+              le secondaire en logarithme",
+    x = "Taux de scolarisation", y = "PIB en $") +
+  theme_minimal()
+```
+
+\vspace{1em}
+
+Le taux de scolarisation dans le secondaire a tendance a augmenté au fil
+des années, ce qui a un impact positif sur le PIB. \newline En 2020, le
+taux de scolarisation atteint 4.65 avec le PIB à 28.
+
+\newpage
+
+\underline{Evolution du PIB en fonction de la \bf{dette de l'Etat}:}\
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+mex %>%
+  ggplot() + 
+  aes(x = lCGD, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction de la dette du gouvernement en logarithme",
+    x = "Dette ", y = "PIB en $") +
+  theme_minimal()
+
+```
+
+\vspace{1em}
+La dette du gouvernement fluctue beaucoup entre les années 1960 et 2000
+environ, ce qui impacte fortement le PIB. \newline Par ailleurs, elle
+semble se stabiliser après les années 2000 en restant entre 3 et 4, le
+PIB à son tour semble stagner entre 27.5 et 28.
+
+\newpage
+
+\underline{Evolution du PIB en fonction des \bf{échanges}:}
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+mex %>%
+  ggplot() + 
+  aes(x = lTRD, y = lPIB, color = Année) +
+  geom_jitter() +
+  geom_smooth(method=lm , color="red", fill="#69b3a2", se=TRUE)+ 
+  labs(title = "Evolution du PIB en fonction des échanges en logarithme",
+    x = "Echanges", y = "PIB en $") +
+  theme_minimal()
+```
+
+\vspace{1em}
+Il semblerait que le Mexique a toujours eu un rapport en échanges qui
+n'a cessé d'augmenter au fil des années ce qui a eu un impact positif
+sur le PIB. \newline Cependant, le PIB a l'air de stagner depuis les
+années 2010 et tourne aux alentours de 27.5 alors que les échanges
+continuent d'augmenter.
+
+\subsubsection{\textcolor{cyan}{\underline{\bf{Test de significativité globale des paramètres}}}}
+
+Pour vérifier si les coefficients sont statistiquement significatifs, on
+utilise un test de Student bilatéral en testant les hypothèses suivantes
+: $$\begin{cases} H_0: \beta_k = 0 \\H_1: \beta_k\ne 0 \end{cases}$$ \|
+Puis on calcule la statistique :
+$$t_k=\frac{|\hat{\beta}_k|}{\hat{\sigma}_{\hat{\beta}_k}} \sim T_{N}$$
+\| Enfin, si $t_k > c_\alpha$ alors on rejette l'hypothèse de nullité du
+coefficient --- Le coefficient $\beta_k$ est **significatif**, avec un
+risque $\alpha$ de se tromper.
+
+-   Interprétation pour la constante $\beta_0$ : la pvalue =
+    $0.000 <0.05$ donc le coefficient est très significatif
+-   Interprétation pour le coefficient $\beta_1$ associé à la variable
+    $lIEM$ : la pvalue = $0.818> 0.1$ donc le coefficient n'est pas
+    significatif.
+-   Interprétation pour le coefficient $\beta_2$ associé à la variable
+    $lPOP$ : la pvalue = $0.048< 0.05$ donc le coefficient est très
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $<5 \%$.
+-   Interprétation pour le coefficient $\beta_3$ associé à la variable
+    $lINF$ : la pvalue = $0.003< 0.01$ donc le coefficient est très
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $< 1 \%$.
+-   Interprétation pour le coefficient $\beta_4$ associé à la variable
+    $lCGD$ : la pvalue = $0.016 < 0.05$ donc le coefficient est très
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $<5 \%$..
+-   Interprétation pour le coefficient $\beta_5$ associé à la variable
+    $lTSS$ : la pvalue = $0.061< 0.1$ donc le coefficient est
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $< 10 \%$.
+-   Interprétation pour le coefficient $\beta_6$ associé à la variable
+    $lINV$ : la pvalue = $0.085 <0.1$ donc le coefficient est
+    significatif et donc la probabilité de rejeter à tort $H_0$ est
+    $<10 \%$..
+-   Interprétation pour le coefficient $\beta_7$ associé à la variable
+    $lTRD$ : la pvalue = $0.818> 0.1$ donc le coefficient n'est pas
+    significatif.
+
+\subsubsection{\textcolor{cyan}{\underline{\bf{Détermination du seuil de la dette}}}}
+
+On ajoute la variable CGD au carré qui est la dette du gouvernement en
+pourcentage du PIB pour pouvoir déterminer le seuil de la dette. On
+prend la valeur en log pour avoir plus de précisions.
+
+```{r}
+CGD2<-mex$CGD^2
+lCGD2<-mex$lCGD^2
+```
+
+On a donc le modèle suivant :
+
+```{=tex}
+\begin{center}
+$lPIB = \beta_1lIEM+\beta_2lPOP+\beta_3lINF+\beta_4lCGD+\beta_5lTSS+\beta_6lINV+\beta_7lTRD+\beta_8lCGD2+u$
+\end{center}
+```
+Ainsi, pour déterminer le seuil de la dette, on fait la maximisation de
+notre modèle. On dérive le taux de croissance du PIB en log par la dette
+en log dans l'équation.\
+
+On obtient :
+
+```{=tex}
+\begin{center}
+$\frac{\partial_lPIB}{\partial_lCGD} = \beta_4+2\beta_8lCGD$
+\end{center}
+```
+A l'optimum, on a :
+
+```{=tex}
+\begin{center}
+$\frac{\partial_lPIB}{\partial_lCGD} = 0$
+\end{center}
+```
+alors
+
+```{=tex}
+\begin{center}
+$lCGD = \frac{-\beta_4}{2\beta_8}$
+\end{center}
+```
+```{r}
+reg7<-lm(lPIB~lIEM+lPOP+lINF+lCGD+lTSS+lINV+lTRD+lCGD2, data=mex)
+```
+
+\begin{table}[H] \centering 
+  \caption{} 
+  \label{}
+  \resizebox{0.5\textwidth}{!}{%
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & lPIB \\ 
+\hline \\[-1.8ex] 
+ lIEM & 0.028 \\ 
+  & p = 0.856 \\ 
+  & \\ 
+ lPOP & $-$1.064$^{**}$ \\ 
+  & p = 0.040 \\ 
+  & \\ 
+ lINF & $-$0.208$^{***}$ \\ 
+  & p = 0.002 \\ 
+  & \\ 
+ lCGD & 2.449 \\ 
+  & p = 0.106 \\ 
+  & \\ 
+ lTSS & 0.938$^{*}$ \\ 
+  & p = 0.062 \\ 
+  & \\ 
+ lINV & 0.649 \\ 
+  & p = 0.156 \\ 
+  & \\ 
+ lTRD & 0.058 \\ 
+  & p = 0.838 \\ 
+  & \\ 
+ lCGD2 & $-$0.412$^{*}$ \\ 
+  & p = 0.070 \\ 
+  & \\ 
+ Constant & 18.092$^{***}$ \\ 
+  & p = 0.00000 \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 39 \\ 
+R$^{2}$ & 0.978 \\ 
+Adjusted R$^{2}$ & 0.972 \\ 
+Residual Std. Error & 0.125 (df = 30) \\ 
+F Statistic & 165.388$^{***}$ (df = 8; 30) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+}
+\end{table}
+
+Donc on obtient le modèle suivant :
+
+```{=tex}
+\begin{center}
+$lPIB = 18.092+ 0.028lIEM -1.064lPOP - 0.208lINF + 2.449lCGD + 0.938lTSS + 0.649lINV +0.058lTRD -0.412LCGD2$
+\end{center}
+```
+Seuil de la dette :
+
+```{=tex}
+\begin{center}
+$lCGD = \frac{-\beta_4}{2\beta_8} = \frac{-2.449}{2*(-0.412)}= 2.97\%$
+\end{center}
+```
+Donc **le seuil à partir duquel la dette a un impact négatif sur le PIB
+est 2.97%** c'est-à-dire que le niveau optimal de la dette du Mexique
+est 2.97% du PIB, la dette a un effet négatif au dessus de ce seuil.
+
+\subsubsection{\textcolor{cyan}{\underline {\bf{Test de Chow}}}}
+
+On réalise un test de Chow pour déterminer si les coefficients estimés
+dans un modèle avec la constante et lCGD comme variable explicative sont
+égaux pour les années avant et après 2000 et donc voir s'il y a une
+rupture dans le temps.
+
+$$\begin{cases} H_0: \beta_0 = \beta_3,  \beta_1 = \beta_4 \\H_1: \beta_0 \neq \beta_3,  \beta_1 \neq \beta_4  \end{cases}$$
+
+La première estimation est réalisée sur les observations des années
+avant l'année 2000: \begin{equation}
+lPIBav=\beta_0+\beta_1 lCGDav +\varepsilon_i
+\end{equation} La deuxième est réalisée sur les observations des années
+après l'année 2000: \begin{equation}
+lPIBap=\beta_3+\beta_4 lCGDap +\varepsilon_i
+\end{equation}
+
+Afin de réaliser le test on effectue une troisième estimation sur tout
+l'échantillon.
+
+```{r}
+summary(reg8<-lm(lPIB~lCGD, data=mex))
+```
+
+\
+**On peut voir que dans le modèle complet, le coefficient de la
+constante est égal à** \textcolor{red}{20.8152} et celui de l'indicateur
+de la dette est de \textcolor{red}{1.7833}.\
+
+```{r}
+summary(regmin2<-lm(lPIB~lCGD,data=subset(mex, Année<2000)))
+```
+
+\
+**Pour la régression comprenant les données des années avant 2000, la
+constante égale à** \textcolor{red}{21.3811},la variable de la dette a
+un coefficient de \textcolor{red}{1.3935}.\
+
+```{r}
+summary(regmaj2<-lm(lPIB~lCGD,data=subset(mex,Année>=2000)))
+```
+
+\
+**Pour la régression contenant les données des années après 2000, la
+constante égale à** \textcolor{red}{25.727},la variable de la dette a un
+coefficient de \textcolor{red}{0.5843}.\
+
+Etant donné qu'on n'a pas les mêmes coefficients selon les régressions,
+on peut dire qu'il y a une rupture dans le temps et que la dette n'a pas
+le même effet sur le PIB au cours des années.
+
+On effectue le test :\
+
+```{r, message=FALSE, warning=FALSE}
+SCRmin2=sum(regmin2$residuals^2)
+SCRmaj2=sum(regmaj2$residuals^2)
+SCRtot2=sum(reg8$residuals^2)
+(CHOWF2=((SCRtot2-(SCRmin2+SCRmaj2))/(SCRmin2+SCRmaj2))*(62-7)/(2))
+qf(.95, df1=2, df2=55) 
+# p value
+pf(CHOWF2,df1=2, df2=55,lower.tail = FALSE)
+```
+
+Donc comme le montre le test, on peut rejeter l'$H_0$ car il semble y
+avoir des différences sur les deux paramètres avant et après l'année
+2000.
+
+\newpage
+
+\textcolor{BlueViolet}{\underline {\Huge{\bf Bibliographie}}}
+
+\vspace{1em}
+
+Marc RAFFINOT. Soutenabilité de la dette extérieure : de la théorie aux
+modèles d'évaluation pour les pays à faible revenu. DT/98/01.
+
+\vspace{0.6em}
+
+Benedict CLEMENTS et al. L'allègement de la dette peut-il doper la
+croissance des pauvres ? Fonds Monétaire International, 2005.
+\vspace{0.6em}
+
+RANDRIANARIVONY Nirinarilija, IMPACT DE LA DETTE EXTÉRIEURE SUR LA
+CROISSANCE ÉCONOMIQUE : CAS DE MADAGASCAR, 2014 \vspace{0.6em}
+
+République Tunisienne, Ministère des Finances, Rapport sur la dette
+publique, 2018 \vspace{0.6em}
+
+Imed DRIN, Mahmoud Sami NABI, Endettement extérieur public et efficience
+productive dans les pays en développement, 2009 \vspace{0.6em}
+
+Anaïs Carton (CADTM), Lamine Benghazi (ASF), Nathalie Janne d'Othée
+(CNCD-11.11.11), Tunisie en crise : le poids de la dette, 2021 Benoît
+Delmas, Tunisie : 100 milliards de dinars de dette, 2021 \vspace{0.6em}
+
+IBoursa.com, La dette publique de la Tunisie frôle les 100 milliards de
+dinars à fin juin 2021, 2021 \vspace{0.6em}
+
+Tustex, la dette publique a atteint son niveau le plus haut depuis 50
+ans, 2021 \vspace{0.6em}
+
+<https://theconversation.com/au-mexique-la-pandemie-frappe-un-pays-deja-fragilise-par-la-precarite-et-sa-dependance-economique-135848>
+\vspace{0.6em}
+
+<https://www.tresor.economie.gouv.fr/Articles/2018/09/14/fiche-pays-situation-economique-et-financiere-du-mexique-septembre-2018>
+\vspace{0.6em}
+
+<https://les-yeux-du-monde.fr/actualites-analysees/amerique/3798-la-crise-de-la-dette-en-amerique-latine-dans-les-annees-1980>
+\vspace{0.6em}
+
+<https://www.cadtm.org/Le-Mexique-a-prouve-qu-il-est-possible-de-repudier-une-dette>
+\vspace{0.6em}
+
+<https://www.tresor.economie.gouv.fr/Articles/2020/07/16/breves-economiques-pour-le-mexique-l-amerique-centrale-et-les-caraibes-9-au-15-juillet-2020>
+\vspace{0.6em}
+
+<https://www.tradesolutions.bnpparibas.com/fr/explorer/mexique/apprehender-le-contexte-economique>
+\vspace{0.6em}
+
+<https://www.mexique-voyages.com/informations/economie/>
